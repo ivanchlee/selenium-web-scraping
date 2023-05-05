@@ -1,12 +1,16 @@
 # Web Scraping using Selenium
 
-Sample python code to scrap Youtube title, views and time since upload using Selenium.
+In this repo, there are a few examples of web scraping using Selenium.
+1) scrap Youtube title, views and time since upload 
+2) login into instagram, bypass popup and follows a user  (using outdated version of selenium)
+3) login into studio booking system and book a class 
 
 ## Usage
 
 ```
-python selenium.py
+python scrap_youtube_titles.py
 ```
+
 
 ## Contributing
 

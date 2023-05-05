@@ -1,0 +1,5 @@
+.env
+logs
+logs/*
+__pycache__
+LICENSE.chromedriver
